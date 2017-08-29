@@ -27,7 +27,7 @@
 
 The file `image.data` consists of 100 image files, concatenated together. The image files are in PBM format, with exactly one comment line
 
-- The first line contains `P1`;
+- The first line contains `P1`
 - The second line contains a comment (starting with `#`) that contains the class of the image (`Yes` or `Other`)
 - The third line contains the `width` and `height` (number of columns and rows)
 - The remaining lines contain `1’s` and `0’s` representing the pixels in the image, with `1` representing black, and `0` representing white. The line breaks are ignored
