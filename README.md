@@ -17,3 +17,8 @@
 3. Choose `data` directory
 4. Program will look for `image.data` inside that chosen folder
 
+## Notes
+
+- The algorithm for learning the weights is available <a href='https://github.com/rjperez94/Perceptron/blob/master/learning-weights-algo.gif'>here</a>
+
+- The basic algorithm for the perceptron is <a href='https://github.com/rjperez94/Perceptron/blob/master/perceptron-algo.gif'>here</a>
